@@ -1,0 +1,31 @@
+body{
+  font-family: verdana;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+}
+#hyperlinkstyle{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h3{
+  font-weight: 300;
+  font-size:42px;
+}
+
+p{
+    font-size:21px;
+    color:gray;
+}
+
+video{
+  align-self: center;
+}
+.footer{
+  text-align: right;
+}
